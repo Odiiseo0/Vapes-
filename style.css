@@ -1,0 +1,5 @@
+body { font-family: sans-serif; margin: 0; padding: 10px; background: #f4f4f4; }
+.container { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.card { background: white; padding: 10px; border-radius: 10px; text-align: center; }
+img { width: 100%; border-radius: 8px; }
+.btn-wpp { display: block; margin-top: 10px; padding: 10px; background: #25D366; color: white; text-decoration: none; border-radius: 5px; }
